@@ -1,3 +1,8 @@
+<script setup>
+ const sayHello = ()=> console.log();
+ sayHello();
+</script>
+
 <template>
     <div class="text-3xl font-bold underline"
     >
