@@ -3,5 +3,8 @@
     >
         This Is My First Page index page
     </div>
-    
+    <div class="imagee">
+      <img src="~/assets/myPic2.jpg" alt="Discover Nux Page" height="100" width="100">
+        
+    </div>
 </template>
