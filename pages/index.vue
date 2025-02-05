@@ -1,5 +1,5 @@
 <script setup>
- const sayHello = ()=> console.log();
+ const sayHello = ()=> useUtils();
  sayHello();
 </script>
 
